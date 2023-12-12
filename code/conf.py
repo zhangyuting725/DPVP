@@ -7,10 +7,7 @@ import torch
 class Config:
     test=True
     dir = "../"
-    '''if test:
-        data_size='small'
-        epochs = 2
-    else:'''
+
         
     data_size='MT-small'
     epochs = 2
