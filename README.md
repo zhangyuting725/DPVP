@@ -7,17 +7,17 @@ Source code of KDD23 Paper "Modeling Dual Period-Varying Preferences for Takeawa
 
 **structure**:
 
-​	|code
+> code
 
-​		|mygraph
+> > mygraph
+> >
+> > conf.py
+> >
+> > main.py
+> >
+> > utils.py
 
-​		conf.py
-
-​		main.py
-
-​		utils.py
-
-​	|MT-small
+> MT-small
 
 **data format**:
 
